@@ -21,6 +21,7 @@ import java.math.BigDecimal;
 
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
 
+    //This is test
     //The views
     private Button buttonPay;
     private EditText editTextAmount;
